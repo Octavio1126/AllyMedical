@@ -127,6 +127,8 @@ body
 	margin-top: 40px;
 }
 
+
+
 /*-----Redes Sociales----------*/
 
 #social-media
@@ -182,4 +184,15 @@ hr
 	margin-bottom: 0;
 	padding-bottom: 20px;
 	text-align: center;
+}
+
+/*-----Mapa----------*/
+.mapa-box .fa
+{
+	margin-right: 8px;
+	font-size: 18px;
+	
+	text-align: center;
+	padding: 7px;
+	border-radius: 2px;
 }
